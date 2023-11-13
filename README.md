@@ -6,9 +6,9 @@ This repository contains the implementation of linear regression and support vec
 
 ## Contents
 
-- `linear_regression_sklearn.ipynb`: Jupyter Notebook containing the implementation of linear regression using the sklearn library on the Quandl dataset for stock price prediction.
+- `linear_regression.py`: Python file containing the implementation of linear regression using the sklearn library on the Quandl dataset for stock price prediction.
   
-- `svm_classification.ipynb`: Jupyter Notebook demonstrating the implementation of SVM classification with different kernels (linear, radial basis function, etc.) for stock price prediction.
+- `lin_reg_svm.py`: Python file demonstrating the implementation of SVM classification with different kernels (linear, radial basis function, etc.) for stock price prediction.
 
 - `custom_linear_regression.py`: A custom implementation of linear regression for classifying demo numbers.
 

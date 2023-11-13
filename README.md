@@ -31,7 +31,8 @@ The dataset used in this project is sourced from Quandl and is focused on stock 
 
 - Linear Regression (sklearn): 98% accuracy
 - SVM Classification: Up to 97% accuracy with different kernels
-- ![Results](res.png)
+  
+  ![Results](res.png)
 
 ## Contributing
 
